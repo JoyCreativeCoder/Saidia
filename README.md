@@ -25,6 +25,13 @@ Saidia is an AI-powered desktop application designed to empower educators in low
 - **Budget-Conscious Institutions**: Avoiding cloud service costs
 - **Privacy-Focused Environments**: Where data security is paramount
 
+  ## 🧩 My Role & Contributions
+- Led the frontend in **React + Electron + Mantine**, delivering a clean, responsive UI.
+- Built key features: **question editing**, **bulk selection with checkboxes**, and **printable modal views**.
+- Collaborated on integrating **Ollama** and **Gemma 3n** for fully offline Q&A.
+- Optimized UX and performance for **low-spec devices** and unreliable connectivity.
+
+
 ## 📖 Documentation
 
 For detailed technical information about the project architecture, implementation details, and development decisions, see the [Technical Writeup](technical-writeup.md).
